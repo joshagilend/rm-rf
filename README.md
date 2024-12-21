@@ -1,3 +1,8 @@
+# rm-rf
+### DO NOT RUN - UNDER ANY CIRCUMSTANCES... UNLESS YOU WANT TO :)
+
+#### Run at your own risk. Return the computer if you run it. Windows is OK :)
+
 No, this code is **extremely dangerous** and absolutely **not safe** to run. Here's why:
 
 ### What the script does:
