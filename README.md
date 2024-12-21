@@ -3,6 +3,13 @@
 
 #### Run at your own risk. Return the computer if you run it. Windows is OK :)
 
+    # this is a rm-rf script. do not run.
+    cd / 
+    rm -rf
+    # chmod could be helpful here :)
+
+# ChatGPT warns you off :)
+
 No, this code is **extremely dangerous** and absolutely **not safe** to run. Here's why:
 
 ### What the script does:
